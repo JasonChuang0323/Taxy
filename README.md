@@ -1,10 +1,6 @@
 # Taxy
 
 
-## Overview
-
-Taxy is a simple web application built with Python. It includes an API endpoint that responds to greeting requests. This document provides instructions for running the application and testing the API.
-
 ## Running the Application
 
 To start the application, use the following command:
